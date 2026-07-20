@@ -1,5 +1,4 @@
 # CodeAlpha_Iris_Flower_Classification
-# Iris Flower Classification using Machine Learning
 
 ## Project Overview
 This project builds and compares multiple Machine Learning classification models to predict the species of Iris flowers based on their sepal and petal measurements.
